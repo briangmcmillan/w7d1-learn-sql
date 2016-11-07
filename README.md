@@ -1,4 +1,4 @@
-<!--
+
 Example Answer = How many books are in the books table? 200 SELECT COUNT(*) FROM books;
 
 #1)How many users are there?
@@ -58,4 +58,3 @@ sqlite> select * from users;
 Insert Order -
 insert into orders values (400, 1000, 1000, 5, datetime());
 sqlite> select * from orders;
- -->
